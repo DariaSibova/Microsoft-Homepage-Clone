@@ -36,3 +36,16 @@ ul {
   padding: 20px 0;
   font-size: 13px;
 }
+
+
+.main-nav .logo {
+  width: 110px;
+}
+
+.main-nav ul {
+  display: flex;
+}
+
+.main-nav ul li {
+  padding: 0 10px;
+}
