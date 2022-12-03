@@ -86,3 +86,13 @@ ul {
 .btn:hover {
   opacity: 0.9;
 }
+
+
+.dark {
+  color: #fff;
+}
+
+.dark .btn {
+  background: #f4f4f4;
+  color: #333;
+}
