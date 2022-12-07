@@ -288,3 +288,15 @@ ul {
       grid-template-columns: repeat(2, 1fr);
   }
 }
+
+@media(max-width: 500px){
+  .home-cards{
+      grid-template-columns: 1fr;
+  }
+  .links .links-inner{
+      grid-template-columns: 1fr;
+  }
+  .links .links-inner ul{
+      margin-bottom: 20px;
+  }
+}
